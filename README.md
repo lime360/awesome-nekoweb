@@ -1,2 +1,2 @@
-# awesome-nekoweb
+# Awesome Nekoweb
 Curated list for all things Nekoweb.
