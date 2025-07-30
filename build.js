@@ -3,8 +3,7 @@ import * as fs from "node:fs";
 
 const target = fs.readFileSync("README.md", { encoding: "utf-8" });
 const document = marked.parse(target);
-const outputHTML = `
-<!DOCTYPE html>
+const outputHTML = `<!DOCTYPE html>
 <html>
     <head>
         <title>Awesome Nekoweb</title>
